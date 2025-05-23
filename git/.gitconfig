@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	email = ncoloma-cook@justworks.com
+# Please adapt and uncomment the following lines:
+#	name = Nico Coloma-Cook
+#	email = ncoloma-cook@justworks.com
+
+
